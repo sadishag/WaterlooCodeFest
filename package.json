@@ -1,0 +1,22 @@
+{
+  "name": "waterloo_code_fest",
+  "version": "1.0.0",
+  "description": "awesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadishag/WaterlooCodeFest.git"
+  },
+  "author": "Sadisha Galappatti, Kevin Kim, Preshoth Paramalingam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadishag/WaterlooCodeFest/issues"
+  },
+  "homepage": "https://github.com/sadishag/WaterlooCodeFest#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
